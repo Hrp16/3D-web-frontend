@@ -1,10 +1,5 @@
-
 function App() {
-
-  return (
-    <>    harsh
-    </>
-  )
+  return <> harsh</>;
 }
 
 export default App;
